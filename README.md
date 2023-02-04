@@ -3,7 +3,7 @@
 ### latihan 1
 
 Pada latihan 1 kita akan membuat program dengan syarat berikut:
-`txt = 'Hello World'`
+* `txt = 'Hello World'`
 * Hitung jumlah karakter
 * Ambil karakter terakhir
 * Ambil karakter indek ke-2 sampai index ke-4 (llo)
